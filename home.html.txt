@@ -1,0 +1,5 @@
+<html>
+<head> THe head</head>
+<title> Title of the tale</title>
+<body> kilo</body>
+</html>
